@@ -16,7 +16,7 @@ print("""I will master the PYTHON course""")
 #python is case sensitive
 b="Carnival"
 print(type(b))
-
+#testt
 b=20;phi=2.718; city='Delhi'
 b,phi,city=20,2.718,'Delhi'
 b=c=d=e=15
