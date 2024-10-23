@@ -2,8 +2,9 @@ import string
 a=2
 b=5
 #single line comment
-'''dsdas
-sd'''
+'''multi 
+line
+comment'''
 
 if(b>a):
     print("b is greater than a")
